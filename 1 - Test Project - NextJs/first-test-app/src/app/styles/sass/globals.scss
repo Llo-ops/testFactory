@@ -1,0 +1,14 @@
+:root {
+  --color-primary: red;
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: var(--color-primary);
+}
